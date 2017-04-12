@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image: url(images/Untitled-1.jpg);
+}
+#submit {
+	color: #7DA5BF;
+	font-size: 10px;
+	width: 135px;
+	border: none;
+	margin: 0;
+	padding: 0;
+	height: 60px;
+}
+body table {
+	border: thin solid #A69280;
+	font-size: 20px;
+	text-align: center;
+}
+td strong a {
+	font-size: x-large;
+}
+td a strong {
+	font-size: x-large;
+	text-align: justify;
+}
